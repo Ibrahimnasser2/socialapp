@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "613537111263",
+    "project_id": "social-app-94849",
+    "storage_bucket": "social-app-94849.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613537111263:android:e8e04365771f54b1b99d6a",
+        "android_client_info": {
+          "package_name": "camper.socialapp.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613537111263-addacs6h72rijfts67dtsh5hd923pe2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA3JYxzvMV9bjmL2BDOcq_IOOVVDihtyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613537111263-addacs6h72rijfts67dtsh5hd923pe2m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "613537111263-c4i0plsq9jdielv2tmm0kgu0cjk7fh8t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
