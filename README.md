@@ -1,6 +1,6 @@
 # socialapp
 
-A shopapp Flutter project.
+A socialapp Flutter project.
 
 ### Getting Started
 
